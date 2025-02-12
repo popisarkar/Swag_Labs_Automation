@@ -88,7 +88,7 @@ The project is organized into **separate folders** to maintain clarity and scala
 
 #### 📄 **Page Classes:**
 
- - 🏷 [**BasePage**](https://www.oracle.com/java/technologies/javase-downloads.html)
+ - 🏷 [**BasePage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/pages/BasePage.java)
  - 🔑 [**LoginPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/pages/LogInPage.java)
  - 📦[ **ProductPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/pages/ProductPage.java)
  - 📊 [**SortingProductsPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/pages/SortingProductsPage.java) 
