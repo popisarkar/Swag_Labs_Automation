@@ -1,5 +1,4 @@
 package pages;
-
 import org.openqa.selenium.By;
 
 public class LogOutPage extends BasePage{

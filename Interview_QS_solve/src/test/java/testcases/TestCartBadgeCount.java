@@ -1,5 +1,4 @@
 package testcases;
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.*;
@@ -9,9 +8,6 @@ public class TestCartBadgeCount extends DriverSetUp {
 
     ProductPage productPage =new ProductPage();
     LogInPage logInPage= new LogInPage();
-
-    CartBadgeCountPage cartBadgeCountPage= new CartBadgeCountPage();
-
 
     @Test(description = "Verify cart badge count updates correctly")
     public void testCartBadgeCount() {
