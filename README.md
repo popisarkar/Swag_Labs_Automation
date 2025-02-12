@@ -85,13 +85,12 @@ The project is organized into **separate folders** to maintain clarity and scala
 
 #### 📄 **Page Classes:**
 - 🏷 [**BasePage**](https://www.oracle.com/java/technologies/javase-downloads.html)
-- 🛒 **CartBadgeCountPage**
-- 💳 **CheckOutPage**
-- 🔒 **LockOutUserPage**
-- 🔑 **LoginPage**
-- 🚪 **LogOutPage**
-- 📦 **ProductPage**
-- 📊 **SortingProductsPage**  
+- 💳[ **CheckOutPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/pages/CheckOutPage.java)
+- 🔒 [**LockOutUserPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/pages/LockOutUserPage.java)
+- 🔑 [**LoginPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/pages/LogInPage.java)
+- 🚪[ **LogOutPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/pages/LogOutPage.java)
+- 📦[ **ProductPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/pages/ProductPage.java)
+- 📊 [**SortingProductsPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/pages/SortingProductsPage.java)  
 
 ---
 
@@ -100,13 +99,13 @@ The project is organized into **separate folders** to maintain clarity and scala
 - Each test script should be named after the feature it tests.  
 
 #### 📄 **Test Case Files:**
-- ✅ **TestCartBadgeCount**
-- ✅ **TestCheckOutPage**
-- ✅ **TestLockOutUser**
-- ✅ **TestLogin**
-- ✅ **TestLogOut**
-- ✅ **TestProductPage**
-- ✅ **TestSortingProductsPage**  
+- ✅ [**TestCartBadgeCount**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/testcases/TestCartBadgeCount.java)
+- ✅ [**TestCheckOutPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/testcases/TestCheckOutPage.java)
+- ✅ [**TestLockOutUser**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/testcases/TestLockOutUser.java)
+- ✅ [**TestLogin**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/testcases/TestLogIn.java)
+- ✅[**TestLogOut**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/testcases/TestLogOut.java)
+- ✅ [**TestProductPage**](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/testcases/TestProductPage.java)
+- ✅ [**TestSortingProductsPage** ](https://github.com/popisarkar/Swag_Labs_Automation/blob/main/Interview_QS_solve/src/test/java/testcases/TestSortingProductsPage.java) 
 
 ---
 
@@ -114,7 +113,7 @@ The project is organized into **separate folders** to maintain clarity and scala
 - This folder contains **helper classes**, such as:  
 
 #### 🛠 **Utility Files:**
-- ⚙️ **DriverSetUp** → Manages WebDriver initialization.  
+- ⚙️[ **DriverSetUp**]() → Manages WebDriver initialization.  
 
 ---
 
